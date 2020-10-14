@@ -1,0 +1,24 @@
+React State an Props
+
+State and Props are js plain object both are holding information
+
+{
+    name: "shahi",
+    age: 22,
+    campany: "testyantra"
+}
+
+Props:
+Props means properties => just plain js object 
+props is used for communication between parent component
+
+props are immutable and it is read only property
+
+if class based component use this.Props
+
+What is Props?
+React js is a component-based library which divide the UI into litle reusable piece. In some cases, 
+those component need to communicate by using props.
+
+"Props" is a special ketword in React, which stands for properties and js being used for passing 
+data from one component to another.
